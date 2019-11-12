@@ -1,100 +1,106 @@
-<mxfile host="www.draw.io" modified="2019-11-09T17:30:21.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="hkcUsrxY1-E3YYMxlDcV" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T20:08:33.995Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="_2rVyoribGs6PRML-oIL" version="12.2.4" type="github" pages="1">
   <diagram id="LJQAyd23ccqQqoixG0Zu" name="Page-1">
-    <mxGraphModel dx="1707" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;قسمت خرید پکیج های آموزشی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-8" value="&lt;font style=&quot;font-size: 18px&quot;&gt;قسمت خرید پکیج های آموزشی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;مشاهده فهرست پکیج&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;مشاهده فهرست پکیج&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتقال به درگاه پرداخت&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1COBQezfmCIplTvvh5HM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-10" target="1COBQezfmCIplTvvh5HM-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتقال به درگاه پرداخت&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="923" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-9" target="ZzaD0uSz9fe8xtf3x2tL-13">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-9" target="ZzaD0uSz9fe8xtf3x2tL-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="840" as="sourcePoint"/>
             <mxPoint x="590" y="790" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-8" target="ZzaD0uSz9fe8xtf3x2tL-9">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-8" target="ZzaD0uSz9fe8xtf3x2tL-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="840" as="sourcePoint"/>
             <mxPoint x="390" y="790" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتخاب پکیج مورد نظر&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتخاب پکیج مورد نظر&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-14" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="770" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-15" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-14">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-15" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="810" as="sourcePoint"/>
             <mxPoint x="780" y="760" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;لینک دانلود تمام ویدیو ها و فهرست قابل مشاهده است&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;لینک دانلود تمام ویدیو ها و فهرست قابل مشاهده است&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="999" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-17" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-16">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-17" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="810" as="sourcePoint"/>
             <mxPoint x="950" y="760" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;پکیج باز است و قبلا خریداری شده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;پکیج باز است و قبلا خریداری شده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="780" width="100" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-14" target="ZzaD0uSz9fe8xtf3x2tL-10">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-14" target="ZzaD0uSz9fe8xtf3x2tL-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="900" as="sourcePoint"/>
             <mxPoint x="910" y="850" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;پکیج قفل است و قبلا خریداری نشده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;پکیج قفل است و قبلا خریداری نشده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="876" width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-21" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="799.5" y="952.9999999999998" as="sourcePoint"/>
-            <mxPoint x="469.5" y="840" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="469.5" y="953"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-22" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;در هر دو صورت پرداخت موفق یا ناموفق&amp;nbsp; بازگشت به فهرست پکیج ها با نشان دادن پیغام مناسب&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="923" width="200" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-23" target="ZzaD0uSz9fe8xtf3x2tL-31">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-23" target="ZzaD0uSz9fe8xtf3x2tL-31" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;زدن روی لینک دانلود باز شدن مرورگر شروع دانلود و بازگشت به صفحه فعلی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;زدن روی لینک دانلود باز شدن مرورگر شروع دانلود و بازگشت به صفحه فعلی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="780" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-23">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ZzaD0uSz9fe8xtf3x2tL-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="810" as="sourcePoint"/>
             <mxPoint x="1170" y="760" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-25" target="ZzaD0uSz9fe8xtf3x2tL-8">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZzaD0uSz9fe8xtf3x2tL-25" target="ZzaD0uSz9fe8xtf3x2tL-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="139.66666666666674" y="710.3333333333335" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="50" y="770" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1240" y="590" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZzaD0uSz9fe8xtf3x2tL-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1250" y="600" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="1COBQezfmCIplTvvh5HM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1COBQezfmCIplTvvh5HM-1" target="ZzaD0uSz9fe8xtf3x2tL-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1COBQezfmCIplTvvh5HM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1COBQezfmCIplTvvh5HM-1" target="ZzaD0uSz9fe8xtf3x2tL-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1COBQezfmCIplTvvh5HM-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="1020" width="90" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="1COBQezfmCIplTvvh5HM-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;موفق&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="979" y="1030" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1COBQezfmCIplTvvh5HM-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ناموفق&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1030" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
