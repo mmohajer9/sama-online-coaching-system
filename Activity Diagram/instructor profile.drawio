@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T20:46:46.867Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="drS77iF4jrxbOoZoM8SP" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T20:47:50.030Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="7lu5ldfPpqT-MO9AXD1H" version="12.2.4" type="github" pages="1">
   <diagram id="b19sduyvUAP5QICGrGgd" name="Page-1">
     <mxGraphModel dx="1554" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,17 +39,23 @@
         <mxCell id="AqZBQIcZQOQFHtHV3cpP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqZBQIcZQOQFHtHV3cpP-12" target="AqZBQIcZQOQFHtHV3cpP-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="AqZBQIcZQOQFHtHV3cpP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-12" value="&lt;span style=&quot;font-size: 14px ; white-space: normal&quot;&gt;مشاهده برنامه ها به تفکیک هر مربی&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="AqZBQIcZQOQFHtHV3cpP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqZBQIcZQOQFHtHV3cpP-13" target="AqZBQIcZQOQFHtHV3cpP-14">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="AqZBQIcZQOQFHtHV3cpP-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-13" value="&lt;span style=&quot;white-space: normal&quot;&gt;زدن دکمه ویرایش اطلاعات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="530" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="AqZBQIcZQOQFHtHV3cpP-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqZBQIcZQOQFHtHV3cpP-14" target="AqZBQIcZQOQFHtHV3cpP-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-14" value="&lt;span style=&quot;white-space: normal&quot;&gt;وارد کردن اطلاعات جدید شخصی&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="530" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-21" value="&lt;span style=&quot;white-space: normal&quot;&gt;وارد کردن اطلاعات جدید شخصی&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="AqZBQIcZQOQFHtHV3cpP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AqZBQIcZQOQFHtHV3cpP-15" target="AqZBQIcZQOQFHtHV3cpP-13">
           <mxGeometry relative="1" as="geometry"/>
@@ -59,6 +65,9 @@
         </mxCell>
         <mxCell id="AqZBQIcZQOQFHtHV3cpP-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="520" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;مشاهده شاگردان&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="530" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
