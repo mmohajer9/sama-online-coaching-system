@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T20:50:48.177Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="nEeSHpeWMAGJuC6EU7ip" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T20:56:48.024Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="VUSvowmyw4eir_KzLt1O" version="12.2.4" type="github" pages="1">
   <diagram id="MDsHlCeejwf5DUwr1m0u" name="Page-1">
     <mxGraphModel dx="2258" dy="-308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,10 +8,13 @@
           <mxGeometry x="-295" y="1533" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتخاب مربی مورد نظر&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-95" y="1533" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-90" y="1533" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NJT6fK0iVDnFJrr9anFl-3" target="9qB1vEhFpDExc9uaDArn-8">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;درخواست برنامه ی غذایی یا تمرینی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="1460" width="120" height="60" as="geometry"/>
+          <mxGeometry x="62" y="1533" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-2" target="NJT6fK0iVDnFJrr9anFl-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,13 +26,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;بازگت به صفحه انتخاب مربیان&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="1530" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="NJT6fK0iVDnFJrr9anFl-12" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-3" target="NJT6fK0iVDnFJrr9anFl-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="1510" as="sourcePoint"/>
-            <mxPoint x="305" y="1460" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="358" y="1533" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-1" target="NJT6fK0iVDnFJrr9anFl-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,26 +40,23 @@
         <mxCell id="NJT6fK0iVDnFJrr9anFl-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;انتخاب ورزشکار مورد نظر&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-105" y="1739.5" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="NJT6fK0iVDnFJrr9anFl-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ارسال برنامه ی غذایی یا تمرینی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="1670" width="120" height="60" as="geometry"/>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NJT6fK0iVDnFJrr9anFl-16" target="NJT6fK0iVDnFJrr9anFl-22">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="NJT6fK0iVDnFJrr9anFl-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-15" edge="1">
+        <mxCell id="NJT6fK0iVDnFJrr9anFl-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ارسال برنامه ی غذایی یا تمرینی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="1739.5" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="NJT6fK0iVDnFJrr9anFl-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="45" y="1609.5" as="sourcePoint"/>
-            <mxPoint x="111" y="1700.5" as="targetPoint"/>
+            <mxPoint x="100" y="1770" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-22" target="NJT6fK0iVDnFJrr9anFl-34" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-22" value="&lt;font style=&quot;font-size: 18px&quot;&gt;بازگت به صفحه انتخاب ورزشکار&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305" y="1739.5" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="NJT6fK0iVDnFJrr9anFl-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="231" y="1700.5" as="sourcePoint"/>
-            <mxPoint x="305" y="1769.5" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="430" y="1739.5" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-26" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NJT6fK0iVDnFJrr9anFl-14" target="NJT6fK0iVDnFJrr9anFl-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -101,6 +95,18 @@
         </mxCell>
         <mxCell id="NJT6fK0iVDnFJrr9anFl-42" value="&lt;font style=&quot;font-size: 23px&quot;&gt;&lt;b&gt;Athlete&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-429" y="1769.5" width="102" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qB1vEhFpDExc9uaDArn-5" target="NJT6fK0iVDnFJrr9anFl-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-5" value="مشاهده اطلاعات ارسالی از ورزشکار نظیر عکس و وزن و قد و ..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1740" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qB1vEhFpDExc9uaDArn-8" target="NJT6fK0iVDnFJrr9anFl-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="9qB1vEhFpDExc9uaDArn-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;وارد کردن اطلاعات مورد نظر نظیر عکس ها و ویژگی های فیزیکی&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1533" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
