@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T20:47:50.030Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="7lu5ldfPpqT-MO9AXD1H" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T20:48:35.270Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="pkCslxu9dUepioks8mBI" version="12.2.4" type="github" pages="1">
   <diagram id="b19sduyvUAP5QICGrGgd" name="Page-1">
     <mxGraphModel dx="1554" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="AqZBQIcZQOQFHtHV3cpP-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;مشاهده شاگردان&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="530" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="AqZBQIcZQOQFHtHV3cpP-25" value="&lt;span style=&quot;font-size: 14px&quot;&gt;ویرایش اطلاعات شخصی&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
