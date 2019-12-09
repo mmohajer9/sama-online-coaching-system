@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-09T05:58:23.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="N8gdmy16gkaEsc-yWb4E" version="12.3.8" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-09T06:36:25.087Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="w0QY5TdFqbfc8pnLlzC6" version="12.3.8" type="github" pages="1">
   <diagram name="Page-1" id="6133507b-19e7-1e82-6fc7-422aa6c4b21f">
-    <mxGraphModel dx="593" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -205,6 +205,9 @@
         <mxCell id="MM-cK55SisxWhxG4iiE0-7" value="+sendTicketToSupport()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2pyik7JpgUIDd5XSxOE7-22" vertex="1">
           <mxGeometry y="138" width="238" height="26" as="geometry"/>
         </mxCell>
+        <mxCell id="X1bsHIerLfi7TUZYu0lX-1" value="deleteTicket()" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2pyik7JpgUIDd5XSxOE7-22">
+          <mxGeometry y="164" width="238" height="26" as="geometry"/>
+        </mxCell>
         <mxCell id="MM-cK55SisxWhxG4iiE0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=1.154;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="2pyik7JpgUIDd5XSxOE7-29" target="2pyik7JpgUIDd5XSxOE7-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="931" y="314" as="targetPoint"/>
@@ -339,7 +342,7 @@
             <mxPoint x="-506" y="142.5" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LjI3YklGjYOrQwWOF_R-4" value="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;fontFamily=Verdana" vertex="1" connectable="0" parent="1">
+        <mxCell id="4LjI3YklGjYOrQwWOF_R-4" value="1" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=12;fontFamily=Verdana" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1019.8823529411766" y="280.2058823529412" as="geometry">
             <mxPoint x="-506" y="142.5" as="offset"/>
           </mxGeometry>
