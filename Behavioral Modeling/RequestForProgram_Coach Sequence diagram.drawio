@@ -1,1 +1,64 @@
-<mxfile host="www.draw.io" modified="2019-12-09T07:37:50.783Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="eV3nLkTORuiOIdZnNhpz" version="12.3.8" type="github" pages="1"><diagram id="n184XXKKuhRC01C2coYI" name="Page-1">5VfbjpswEP0aHisBDrk8JiTbrdTtLZGqfVo54IBbwyBjQtKv7xjMrdl0sw+7TbW84Dkez4zPnEGJRfzk8F7SLL6DkAnLtcODRZaW6zoje4ovjRxrZDJzayCSPDROHbDmv5gBbYMWPGT5wFEBCMWzIRhAmrJADTAqJZRDtx2IYdaMRuwEWAdUnKLfeajiGp16doffMh7FTWbHNjsJbZwNkMc0hLIHkZVFfAmg6lVy8JnQ5DW81Oduzuy2hUmWqksOMHA/3S8ektU0Jrfbzdeb4gN5Z6LsqSjMhU2x6tgwgHVnelkk4iPfMcFTtBaYV/GAZ7RKjnvzQIHUG0zyhCmG66Uw/l86bFHGXLF1RgMds0TRIBarRKDl4BL7qCgeka0tBM1yvq3KsRGRLChkzvfsG8truWh0z3Q9VMwFj1LEFOjAOebhabTRxpKMERF0y8SCBj8jCUUa+iB01XhPsqsedIFC6aL9VlE6vuEJs7DD2QY4bVtxHhjgleURXcyBsRGCmYSZMctOVo1U4p6iSCMoapQctYG7ZuPC9PsZvfee7n2vMRnwVFUleAvLW/7RaZAqhghSKvq9voi087o8y6Q3IHJySqTzCJHTl+LRfYTHMU20/oSqWOhb6/v1ZnXXYtHAw1iXTeC/GbSXmo5W5+fHo/22vs58jK94Pty/cjm6rgEhJ0T6QIP4bercuzqdT65Y5+R/0vnolEgy/7z9ofXzJrU+nr2e1tHsfktXe71/JGT1Gw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-09T07:40:24.975Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="G7ho1R5_dRpN8nSR9Msl" version="12.3.8" type="github" pages="1">
+  <diagram id="n184XXKKuhRC01C2coYI" name="Page-1">
+    <mxGraphModel dx="1408" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="20" height="410" as="geometry"/>
+        </mxCell>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eo2NYB_mE8h3HbTQFuI3-1" vertex="1">
+          <mxGeometry x="5" y="70" width="10" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-2" value="&amp;lt;&amp;lt;SYSTEM&amp;gt;&amp;gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="90" width="100" height="420" as="geometry"/>
+        </mxCell>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eo2NYB_mE8h3HbTQFuI3-2" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-3" value="Coach" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="90" width="100" height="410" as="geometry"/>
+        </mxCell>
+        <mxCell id="eo2NYB_mE8h3HbTQFuI3-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="eo2NYB_mE8h3HbTQFuI3-3" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-1" value="see own athletes" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="80" y="180" as="sourcePoint"/>
+            <mxPoint x="340" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-2" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="CtOqPibdQmBXFiyY_wPH-1">
+          <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-3" value="getOwnAthlete()" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="350" y="190" as="sourcePoint"/>
+            <mxPoint x="540" y="190" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-4" value="1" style="resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=#ffffff;fontSize=10;" connectable="0" vertex="1" parent="CtOqPibdQmBXFiyY_wPH-3">
+          <mxGeometry x="-1" relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=1.3;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eo2NYB_mE8h3HbTQFuI3-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="230" as="sourcePoint"/>
+            <mxPoint x="400" y="230" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-6" value="returns list of own athletes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="390" y="227" width="160" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;entryX=0.9;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eo2NYB_mE8h3HbTQFuI3-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="240" as="sourcePoint"/>
+            <mxPoint x="140" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CtOqPibdQmBXFiyY_wPH-8" value="show list of coaches own athletes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="200" height="26" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
