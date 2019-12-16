@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T06:21:32.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="M46Xgn35Ng3Xh_Ra5uvs" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T06:57:18.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="Ct8PjPFmCxNMGTGrplP9" version="12.4.2" type="github" pages="1">
   <diagram id="mzAUlpiGzTRNjaUH6MUr" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="K8YpW8oKRpuTJBC5sote-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-4" target="K8YpW8oKRpuTJBC5sote-5">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="K8YpW8oKRpuTJBC5sote-4" value="enter the select coach page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K8YpW8oKRpuTJBC5sote-4" value="coach serach page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-5" target="K8YpW8oKRpuTJBC5sote-1">
@@ -31,25 +31,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="K8YpW8oKRpuTJBC5sote-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="270" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="K8YpW8oKRpuTJBC5sote-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-5" target="K8YpW8oKRpuTJBC5sote-23">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="K8YpW8oKRpuTJBC5sote-5" value="&lt;font style=&quot;font-size: 17px&quot;&gt;see list of all coaches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="240" width="120" height="60" as="geometry"/>
+        <mxCell id="K8YpW8oKRpuTJBC5sote-5" value="&lt;font style=&quot;font-size: 17px&quot;&gt;list of coaches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-6" value="push select new coach button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="130" width="50" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-12" value="&lt;font style=&quot;font-size: 17px&quot;&gt;apply search filters&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="240" width="150" height="20" as="geometry"/>
+          <mxGeometry x="140" y="220" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="K8YpW8oKRpuTJBC5sote-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;not interested ? click on back button&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K8YpW8oKRpuTJBC5sote-16" value="&lt;font style=&quot;font-size: 13px&quot;&gt;[not interested = click on back button]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="20" width="250" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-18" value="select a coach with tap on it" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="230" width="100" height="30" as="geometry"/>
+          <mxGeometry x="485" y="240" width="100" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-19" target="K8YpW8oKRpuTJBC5sote-1">
           <mxGeometry relative="1" as="geometry"/>
@@ -62,6 +60,15 @@
         </mxCell>
         <mxCell id="K8YpW8oKRpuTJBC5sote-22" value="&lt;font style=&quot;font-size: 19px&quot;&gt;[ object : Athlete ]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="10" width="260" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="K8YpW8oKRpuTJBC5sote-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K8YpW8oKRpuTJBC5sote-23" target="K8YpW8oKRpuTJBC5sote-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="K8YpW8oKRpuTJBC5sote-23" value="waiting on coach list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="240" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="K8YpW8oKRpuTJBC5sote-26" value="[interested]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
