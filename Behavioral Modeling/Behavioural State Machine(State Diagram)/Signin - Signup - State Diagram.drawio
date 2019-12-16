@@ -1,1 +1,67 @@
-<mxfile modified="2019-12-16T05:32:15.359Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="iO1CHTp8LW485ejavpFq" version="12.4.2" type="github" pages="1"><diagram id="bv0tDKeVst-FSTXMygIP" name="Page-1">5Vnbbts4EP2aYHcfHFCSJcuPsZte0BYoNi3a7Btt0RYRitRKdGzv1+8MRVk33+LYSYAGSawZXkTOnDkzpK+8cbL6kNE0/qoiJq5cEq2uvHdXrusQL4QP1KwLjd+3innGI9upUtzx/1g50moXPGJ5o6NWSmieNpVTJSWb6oaOZplaNrvNlGi+NaVz1lHcTanoan/ySMd2F6FX6T8yPo/tm/uObUho2dduJI9ppJY1lXd75Y0zpXTxlKzGTKDtSrMU497vaN2sK2NSHzNg2Ot/Zl8f+Jdk+Gnw+d4dfQ/+6dlZHqlY2P3axep1aQCYBWwNwijWiQCdA4+wmRTbc00zfaepxvYZF2KshMrMQI+YH+ysM/XAai2zmW3p7qFcEMs0W9VUdk8fmEqYztbQxbYGxC+GrEsHFOKycpZnPRDX/FTqqIXHfDNxZUJ4sFZ8gkXdIywaAcKsqDIdq7mSVNxW2rql0RIc4Hgj+FyCbqK0Vgk0MBndIL5xkpTJQmPjJ9xrdTB2tv4FSnLtl+I9iqXwbtWQ1lba6a1cLbIpOwwzAMuc6T39rCvRQHt9nzFBNX9shug2V9qh3xSHJVeYcZuYcfqtKYqF2lEtQGyWcTpGvA5GbqVmGRo3VpLBp1wkE1S0kAMxAeYbUYuFKTPDIPKU1CWiyBbQJDyKDLDylE65nH9hM3SDV2n+tqHhdZAjcUXeKFMQ5XSyeUWKxjHm8kfwC+E0Rjj5sMwxyE4lwy92z/RYSZiacoMeRnO9ZLk+Dwv4pN/w6JB0WGCTUV6EBvwtNBAI3G3acGnw7wITwCgBxHFw1Q20knQF/41hSKHvaZUWbf1aG6KhZ7GAbRYOmznhaW4/zZsnpWIcs+kDOL1sgB1O2p1Bl1a6Fg7b+DLL28BSGHSNFPSaCUNQmBlKmBYM5bhWfk8TLtBrH5l4ZDhrk//OAQ6fNMN90M0RTn8bOoYXQkfwltEBzPcd4l/+JugI3beGjkEHHYvcZIcYXuWSCUPfQA6c8xw8yqKOA55YPkyEmj6gasX1LzsOn++rEgGkqihAoawJqlqiUUlUhcXZawn/yFoiOLKWqLk5tF5+ZnkxaCHKJa0pij12yovORCE5MNGF65TwLdPUHQz5kf4mJOX3m0jwyBaSCraQVP9SJDXcT1JS6YtyVMVL9zXGOsRRL3XeOZajwlfjqKBNLcGJHBWEBya6MEeVVf0WksLY3MpT2NDLTRQj5ThD5KM24fwo4PznjY4F03AoC2iCFCEneVpQF550XDJWdBpvpJso4Zid/4K/kqEIlZEVP2Fbmqkpy/MaTRUr3cFU9tBXv33ZdkCr375YVeecuPNcuIy5ZndwFMR3LjOamhPfQkYsOhQMx5PYoFWHu10O28C7zmHupQ5pznOvv/DG5TUvvxynVWp4jnvtd6z6ohdgTvcGDA79MscbAFDbLKGVqQtMrJgr2DJKcvrITDQ1w00XJxJiBuAcf+SmWDDrsbcmZ66Cr4njNSrhYH+WAeEbyzhYEWPtlarj8MjMU0L/YOqxSOuRa+K7wwbYes6wA7VzldBeC9dBC65Hl9DOgYl2pKdqorKjms1ydpkU1r0PfM1y6XTwvd6RKxy0Ukt4Kl6GLby0efLS5Uz3zMUl15wKgwfMNZ0MteeLAHNGiWgemzzuNLPY2dnpMOs8HSCbU80zEdJvMYrvl4nyqRDxh4dmOhkjIFZfCBbdq29Vvdv/AQ==</diagram></mxfile>
+<mxfile modified="2019-12-16T05:51:23.642Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="QpEnv-FtdPySmk4GCAyR" version="12.4.2" type="github" pages="1">
+  <diagram id="bv0tDKeVst-FSTXMygIP" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="395" y="62" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9-4KeMkiLm9I7KY2BT6Z-1" target="9-4KeMkiLm9I7KY2BT6Z-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="162" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-3" value="Enter phone number" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="294" y="111" width="210" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Checking&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="192" width="140" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;getToken&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="192" width="140" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-7" value="user has been registered" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9-4KeMkiLm9I7KY2BT6Z-5" target="9-4KeMkiLm9I7KY2BT6Z-6" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="222" as="sourcePoint"/>
+            <mxPoint x="590" y="222" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;SignUp&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="322" width="160" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-9" value="user has not registered" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9-4KeMkiLm9I7KY2BT6Z-5" target="9-4KeMkiLm9I7KY2BT6Z-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="282" as="sourcePoint"/>
+            <mxPoint x="470" y="282" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-10" value="&lt;font style=&quot;font-size: 19px&quot;&gt;User (Athlete&amp;nbsp; , Coach , Admin ) SignUp and SignIn process&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="42" width="280" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-11" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="910" y="333.5" width="30" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-12" value="transport user to main page and save &amp;nbsp;token in user&#39;s cell phone" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.013;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9-4KeMkiLm9I7KY2BT6Z-8" target="9-4KeMkiLm9I7KY2BT6Z-11" edge="1">
+          <mxGeometry x="-0.0529" y="-19" width="80" relative="1" as="geometry">
+            <mxPoint x="520" y="381" as="sourcePoint"/>
+            <mxPoint x="600" y="381" as="targetPoint"/>
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-13" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9-4KeMkiLm9I7KY2BT6Z-6" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="660" y="301" as="sourcePoint"/>
+            <mxPoint x="680" y="351" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-4KeMkiLm9I7KY2BT6Z-18" value="initial state" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9-4KeMkiLm9I7KY2BT6Z-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="220" y="76.5" as="sourcePoint"/>
+            <mxPoint x="380" y="76.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
