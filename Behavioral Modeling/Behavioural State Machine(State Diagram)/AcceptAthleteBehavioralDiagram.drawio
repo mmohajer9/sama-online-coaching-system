@@ -1,42 +1,67 @@
-<mxfile host="www.draw.io" modified="2019-12-16T05:57:37.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="b-ejeIRN3EBse-XjYf20" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T06:03:55.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="YMwQWM96W_pnKJ2SDIIy" version="12.4.2" type="github" pages="1">
   <diagram id="t9TvNksNv6yPnYI62Fsn" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="fmwO15psb7VLjq17ENgt-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="60" height="60" as="geometry"/>
+          <mxGeometry x="10" y="190" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="fmwO15psb7VLjq17ENgt-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="fmwO15psb7VLjq17ENgt-1" parent="1">
+        <mxCell id="fmwO15psb7VLjq17ENgt-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="fmwO15psb7VLjq17ENgt-1" parent="1" target="fmwO15psb7VLjq17ENgt-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="370" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="100" y="310"/>
-            </Array>
+            <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="fmwO15psb7VLjq17ENgt-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="730" y="360" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="fmwO15psb7VLjq17ENgt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-4">
+        <mxCell id="fmwO15psb7VLjq17ENgt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-4" target="fmwO15psb7VLjq17ENgt-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="400" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="fmwO15psb7VLjq17ENgt-4" value="enter the athlete requests page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="370" width="120" height="60" as="geometry"/>
+          <mxGeometry x="-20" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="fmwO15psb7VLjq17ENgt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-6" target="fmwO15psb7VLjq17ENgt-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-6" target="fmwO15psb7VLjq17ENgt-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="fmwO15psb7VLjq17ENgt-6" value="select an athlete" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry"/>
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="fmwO15psb7VLjq17ENgt-7" value="decline request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="510" width="120" height="60" as="geometry"/>
+        <mxCell id="fmwO15psb7VLjq17ENgt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-7" target="fmwO15psb7VLjq17ENgt-3">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="fmwO15psb7VLjq17ENgt-8" value="accept request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry"/>
+        <mxCell id="fmwO15psb7VLjq17ENgt-7" value="decline athlete request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fmwO15psb7VLjq17ENgt-8" target="fmwO15psb7VLjq17ENgt-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-8" value="accept athlete request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-11" value="[dont want to accept athlete request]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="200" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-12" value="[want to accept athlete request]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="200" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-15" value="enter the requests page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-21" value="enter the athlets list" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-23" value="return to home page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="fmwO15psb7VLjq17ENgt-26" value="return to home page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="200" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
