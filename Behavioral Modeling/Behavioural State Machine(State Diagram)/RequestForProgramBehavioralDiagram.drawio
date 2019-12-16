@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T07:15:41.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="0qMPLpitAwaFhqGMcE4L" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T07:17:56.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="TLrgOYfhcc7H30kxuAYY" version="12.4.2" type="github" pages="1">
   <diagram id="AGk9-JbY_EgYdEF-5J6T" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,17 +19,44 @@
         <mxCell id="ZJcoAlKNBxngUyA3ue3--3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="690" y="440" width="80" height="80" as="geometry"/>
         </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJcoAlKNBxngUyA3ue3--4" target="ZJcoAlKNBxngUyA3ue3--5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ZJcoAlKNBxngUyA3ue3--4" value="coach select State" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJcoAlKNBxngUyA3ue3--5" target="ZJcoAlKNBxngUyA3ue3--6">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZJcoAlKNBxngUyA3ue3--5" value="program type selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="230" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJcoAlKNBxngUyA3ue3--6" target="ZJcoAlKNBxngUyA3ue3--7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ZJcoAlKNBxngUyA3ue3--6" value="add information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="120" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZJcoAlKNBxngUyA3ue3--7" target="ZJcoAlKNBxngUyA3ue3--3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ZJcoAlKNBxngUyA3ue3--7" value="send request state" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--12" value="click on request for program button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--14" value="select one of own coaches" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--15" value="select type of program : workout or nutrition&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="200" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--16" value="click on send&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZJcoAlKNBxngUyA3ue3--17" value="back to home page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
