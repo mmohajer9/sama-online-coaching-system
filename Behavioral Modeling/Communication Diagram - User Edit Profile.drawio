@@ -1,1 +1,55 @@
-<mxfile host="www.draw.io" modified="2019-12-25T12:11:55.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FotJd3oOBcJpHpC7vPNl" version="12.4.3" type="github" pages="1"><diagram id="JbgIFW2FjpfhqSHtFzav" name="Page-1">7VhRc5s4EP41zLQPzgAyNnl07KS9mXYmM75c20cFBGgiEBVybPfX3wokA8I0Ptdpbm7OD7a0Wq3Y/T7tLnbQMt99ELjMPvOYMMd3452DVo7vey4K4UdJ9o0kmGpBKmislVrBmv4gZqeWbmhMqp6i5JxJWvaFES8KEsmeDAvBt321hLP+qSVOyUCwjjAbSr/QWGaNNAzcVv6R0DQzJ3uuXsmxUdaCKsMx33ZE6NZBS8G5bEb5bkmYCp6JS7PvbmT18GCCFPKUDZ/v7uWn4KEMH57CP5O778lfu4eJFzRmnjHbaI8fKiLegWghM0YkcZTZJXwvOY6y99oXuTcBArdKNdzkbBFJLhx080yEpBDCT/iRsHteUUl5ASqPXEqegwJTCzc4ekoF3xTxkjO1D6yhpP50bCwYTdVeyUuQZjJnMPFgyDeS0YIsD7i7INTOwF6yGw2Tdwg+sJbwnEixBxW9IdAR0Xz1DdLbFn2kRVkH+JmWYc239GC4hQQGGpV/gtBsgNB6X0mSD5CoY0liHYptRiVZlzhSq1u4nP3wXSBSyLNDFQxC5fm/NVbzQawcf8bg2JuqxAWMUzVWDFeEZriqzPqjMKvvxohvKxoJPGrX+pvjMpvbuEzfGpfwCC5WlEgRL1S+hlmkgKFRPzDgvNh/1UGsJ9/U5MoPzHy1666u9ma2o/KrMQLjZhuyPnqxtaEmXRP3RFCIBhG9VEPiQfmwYAIn+UZE5IQkLLFIiXwxFwyB7wAbHMHVyARhWNLn/gMfA1ufcM8puHLglYf6vEK+xZfGUb2rW4lsQ6FF0LllqAnEwFDNvYPbv0DH6wEdvfeq4lVPdYsgamCpHHAU7qTss1KQiv7Aj7WCYkWpnrn2IrhxghVIsC5gEdCCdKujqWw5jWO1/5SqOJoddPujn6RtOrp0/MnVHM0lE/fKRaZl2/eOPJdNRoUnSUVeBV/j/C+lm6NZo0k243ni3Bx1ajJ5q6s/ta++618F511+uzoh17NNvfL1N+6/0CUglRLW0NGqTuCPAtICtPSqkR0r+8P+4L+fPjpvMsfSB1DfDdFFKDjxUI83E79v4RXTiT/Kl4TXj9hiPPu+4WZhUtVvswtQ8Oblrl00BFnyPN8UAGZDK3dFcSowNPYuT+Drti5Bbil4QsF8S7vm1JNJVknBn4jhQ8ELxRYwySzR6VQ71sP2u9xRpp3exnrX/UThzYdvYtPwSM6z25KLtbE+ukBdGSkR80uViH99Gxna+f/MLtK/fsHQa5eR6UllxFdl5I7W9hJKWFz9X0AGd+p39p+mpelXE88ycE45gWn7d16j3v4pim7/Bg==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-25T12:12:07.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="nm70xeMLLfmRb_w-TD7m" version="12.4.3" type="github" pages="1">
+  <diagram id="JbgIFW2FjpfhqSHtFzav" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-15" value="User( Athlete , Coach)" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="55" y="250" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-16" value="System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="255" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-17" value="&lt;span&gt;User Class&lt;br&gt;(Athlete , Coach)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="254" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="MFPtL5Up8Uk8TfFqfVxU-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="270" as="sourcePoint"/>
+            <mxPoint x="185" y="270" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-19" value="1) Ask for edit" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="MFPtL5Up8Uk8TfFqfVxU-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0348" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="302.5" as="sourcePoint"/>
+            <mxPoint x="675" y="301.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-21" value="&lt;span&gt;3) Store Information&lt;/span&gt;&lt;br&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="MFPtL5Up8Uk8TfFqfVxU-20" vertex="1" connectable="0">
+          <mxGeometry x="0.2083" relative="1" as="geometry">
+            <mxPoint x="-13" y="-2" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-22" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Communication Diagram of Edit profile&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="195" y="170" width="480" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-23" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="MFPtL5Up8Uk8TfFqfVxU-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="sourcePoint"/>
+            <mxPoint x="295" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MFPtL5Up8Uk8TfFqfVxU-24" value="&lt;span&gt;2) Fill fields&lt;/span&gt;&lt;br&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="MFPtL5Up8Uk8TfFqfVxU-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.0348" y="1" relative="1" as="geometry">
+            <mxPoint x="4" y="-11" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
