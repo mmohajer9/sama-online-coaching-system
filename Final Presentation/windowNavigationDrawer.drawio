@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-27T22:04:58.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="vZ05nx4eOgOnJJ0O0aDW" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T22:07:20.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ARs7jHSQZTxJiHnN5Y66" version="12.5.8" type="github">
   <diagram id="7LeLBl0ai5kvVD-uMPGW" name="Page-1">
-    <mxGraphModel dx="2194" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2565" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -528,6 +528,9 @@
         <mxCell id="LjvshBRxMa83Llmhffq8-80" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;packages page&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="-44.89" width="90" height="324.89" as="geometry"/>
         </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LjvshBRxMa83Llmhffq8-81" target="LjvshBRxMa83Llmhffq8-90">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="LjvshBRxMa83Llmhffq8-81" value="&lt;font style=&quot;font-size: 7px&quot;&gt;&amp;lt;&amp;lt;On-screen list box&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;packages&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-9.890000000000015" width="75" height="50" as="geometry"/>
         </mxCell>
@@ -548,6 +551,33 @@
         </mxCell>
         <mxCell id="LjvshBRxMa83Llmhffq8-88" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="230.67999999999995" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-90" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;packages detail page&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-44.89" width="90" height="384.89" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-91" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;lt;&amp;lt;report&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;describe&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="-9.890000000000015" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-92" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;tool bar&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;bottom nav&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;imageWidth=50;imageHeight=75;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="100.89999999999989" width="75" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-93" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;profile page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="131.46999999999994" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-94" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;coaches page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="171.46999999999994" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-95" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="211.46999999999994" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-96" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="251.46999999999994" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-97" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="291.46999999999997" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="LjvshBRxMa83Llmhffq8-98" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;buy&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="40.109999999999985" width="75" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
