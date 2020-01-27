@@ -1,0 +1,2 @@
+blue: #01E6FF to #0093C0
+green: #62CA27 to #4DBB0F

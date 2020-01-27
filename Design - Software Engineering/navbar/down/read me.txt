@@ -1,0 +1,1 @@
+Radius = 132 pixel
