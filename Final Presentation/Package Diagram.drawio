@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-27T21:34:16.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="d7PtUOw-Eu878PkLingi" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T23:13:18.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="kTBqt1N0_EWabtid4tOj" version="12.5.8" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2076" dy="2265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -211,14 +211,14 @@
         <mxCell id="LJv96EUOWv_tqTswNUqL-77" value="+AcceptAthlete(AthleteID)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LJv96EUOWv_tqTswNUqL-60">
           <mxGeometry y="420" width="155" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="LJv96EUOWv_tqTswNUqL-78" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=149;tabHeight=37;tabPosition=left;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="962" y="740" width="556" height="270" as="geometry"/>
+        <mxCell id="LJv96EUOWv_tqTswNUqL-78" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=333;tabHeight=54;tabPosition=left;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="962" y="740" width="556" height="340" as="geometry"/>
         </mxCell>
-        <mxCell id="LJv96EUOWv_tqTswNUqL-79" value="Program" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="962" y="740" width="148" height="40" as="geometry"/>
+        <mxCell id="LJv96EUOWv_tqTswNUqL-79" value="Programs" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="962" y="740" width="328" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="LJv96EUOWv_tqTswNUqL-80" value="Workout Programs" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1000" y="810" width="190" height="140" as="geometry"/>
+          <mxGeometry x="1000" y="850" width="190" height="138" as="geometry"/>
         </mxCell>
         <mxCell id="LJv96EUOWv_tqTswNUqL-81" value="- unique&amp;nbsp;WorkoutProgram ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LJv96EUOWv_tqTswNUqL-80">
           <mxGeometry y="26" width="190" height="26" as="geometry"/>
@@ -236,7 +236,7 @@
           <mxGeometry y="112" width="190" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="LJv96EUOWv_tqTswNUqL-86" value="Nutrition Programs" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1290" y="810" width="180" height="140" as="geometry"/>
+          <mxGeometry x="1290" y="850" width="180" height="138" as="geometry"/>
         </mxCell>
         <mxCell id="LJv96EUOWv_tqTswNUqL-87" value="- unique NutritionProgram ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="LJv96EUOWv_tqTswNUqL-86">
           <mxGeometry y="26" width="180" height="26" as="geometry"/>
