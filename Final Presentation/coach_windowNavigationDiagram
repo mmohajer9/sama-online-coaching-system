@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-27T22:38:13.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="hoL12X-bIeTRHL883TTM" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T22:44:44.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="k9Puzk9oLX2pio0dFr1F" version="12.5.8" type="github">
   <diagram id="iYd9lxGQAu8hOG3PF03O" name="Page-1">
-    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -147,8 +147,25 @@
         <mxCell id="pPmnu5Ln-9016d22ceej-67" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="600.5699999999999" width="70" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-623" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="pPmnu5Ln-9016d22ceej-64" target="pPmnu5Ln-9016d22ceej-610">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="661" as="sourcePoint"/>
+            <Array as="points">
+              <mxPoint x="1213" y="940"/>
+              <mxPoint x="2290" y="940"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pPmnu5Ln-9016d22ceej-69" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="640.5699999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-624" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pPmnu5Ln-9016d22ceej-70" target="pPmnu5Ln-9016d22ceej-578">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="417"/>
+              <mxPoint x="1796" y="417"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pPmnu5Ln-9016d22ceej-70" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="680.5699999999999" width="70" height="40" as="geometry"/>
@@ -353,6 +370,153 @@
         </mxCell>
         <mxCell id="pPmnu5Ln-9016d22ceej-406" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;apply&lt;br&gt;&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="638.6399999999998" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.578;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pPmnu5Ln-9016d22ceej-438">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1757.5" y="1195" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-578" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;support page&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1773.14" y="435.96000000000026" width="90" height="384.43" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-579" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-580" target="pPmnu5Ln-9016d22ceej-590" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-580" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;send ticket&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780.64" y="470.96000000000026" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-581" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;contact to support&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780.64" y="520.9600000000003" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-582" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-583" target="pPmnu5Ln-9016d22ceej-602" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2423.14" y="354.49" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-583" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;tool bar&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;bottom nav&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;imageWidth=50;imageHeight=75;" vertex="1" parent="1">
+          <mxGeometry x="1780.64" y="581.2500000000002" width="75" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-584" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;profile page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1783.14" y="611.8199999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-585" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;coaches page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1783.14" y="651.8199999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-586" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-587" target="pPmnu5Ln-9016d22ceej-578" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1818.14" y="834.49" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1853.14" y="713.49"/>
+              <mxPoint x="1881.14" y="713.49"/>
+              <mxPoint x="1881.14" y="894.49"/>
+              <mxPoint x="1818.14" y="894.49"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-587" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1783.14" y="691.8199999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-588" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1783.14" y="731.8199999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-589" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1783.14" y="771.8199999999999" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-590" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;ticket page&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2043.97" y="439.60000000000014" width="90" height="444.89" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-591" value="&amp;lt;&amp;lt;text input&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;subject&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2051.47" y="474.60000000000014" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-592" value="&amp;lt;&amp;lt;text input&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;content&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2051.47" y="524.6000000000001" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-593" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;tool bar&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;bottom nav&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;imageWidth=50;imageHeight=75;" vertex="1" parent="1">
+          <mxGeometry x="2051.47" y="644.49" width="75" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-594" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;profile page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2053.97" y="675.0600000000002" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-595" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;coaches page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2053.97" y="715.0600000000002" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-596" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2053.97" y="755.0600000000002" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-597" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2053.97" y="795.0600000000002" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-599" target="pPmnu5Ln-9016d22ceej-578" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-599" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2053.97" y="835.0600000000002" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-600" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-601" target="pPmnu5Ln-9016d22ceej-578" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-601" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;send button" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2051.47" y="574.6000000000001" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-602" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;packages page&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2245.64" y="445.78" width="90" height="324.89" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-603" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-604" target="pPmnu5Ln-9016d22ceej-611" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-604" value="&lt;font style=&quot;font-size: 7px&quot;&gt;&amp;lt;&amp;lt;On-screen list box&amp;gt;&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;packages&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2253.14" y="480.78" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-605" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;tool bar&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;bottom nav&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;imageWidth=50;imageHeight=75;" vertex="1" parent="1">
+          <mxGeometry x="2253.14" y="530.78" width="75" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-606" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;profile page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2255.64" y="561.3500000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-607" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;coaches page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2255.64" y="601.3500000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-608" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2255.64" y="641.3500000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-609" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2255.64" y="681.3500000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-610" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2255.64" y="721.3500000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-611" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;packages detail page&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2373.14" y="445.78" width="90" height="384.89" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-612" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;lt;&amp;lt;report&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;describe&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380.64" y="480.78" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-613" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;tool bar&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;bottom nav&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 11px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;imageWidth=50;imageHeight=75;" vertex="1" parent="1">
+          <mxGeometry x="2380.64" y="591.5699999999999" width="75" height="235" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-614" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;profile page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2383.14" y="622.1400000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-615" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;coaches page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2383.14" y="662.1400000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-616" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;search page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2383.14" y="702.1400000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-617" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;packages page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2383.14" y="742.1400000000001" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-618" value="&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;support page&lt;/font&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2383.14" y="782.1400000000006" width="70" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pPmnu5Ln-9016d22ceej-620" target="pPmnu5Ln-9016d22ceej-621" parent="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-620" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;lt;&amp;lt;button&amp;gt;&amp;gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;buy&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="2380.64" y="530.78" width="75" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pPmnu5Ln-9016d22ceej-621" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;window&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 9px&quot;&gt;&lt;b&gt;&lt;i&gt;buy api (bank)&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2533.14" y="452.49" width="90" height="38.18" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
