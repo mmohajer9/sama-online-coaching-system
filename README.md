@@ -7,7 +7,7 @@
 
 **Screenshots :** 
     
-    ![1st](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
-    
-    ![2nd]()
+![1st](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+
+![2nd]()
     
