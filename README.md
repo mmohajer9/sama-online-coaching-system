@@ -7,7 +7,7 @@
 
 **Screenshots :** 
     
-![1st](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+   ![1st](https://github.com/mmohajer9/Sama-Software-Engineering-1/blob/master/Design%20-%20Software%20Engineering/Coach%20Panel/Coach%20-%20Own%20Profile/Artboard%20%E2%80%93%206.png?raw=true)
 
-![2nd]()
+   ![2nd](https://github.com/mmohajer9/Sama-Software-Engineering-1/blob/master/Design%20-%20Software%20Engineering/Signup/Artboard%20%E2%80%93%202.png?raw=true)
     
